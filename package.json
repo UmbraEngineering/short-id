@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "sechash": "~0.2.1",
-    "merge-recursive": "0.0.3"
+    "merge-recursive": "0.0.3",
+    "oath": "~0.2.3"
   }
 }
